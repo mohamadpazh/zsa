@@ -2,6 +2,11 @@
 zsA1
 
 <!doctype html><html><head><meta charset="utf-8"/><link rel="icon" type="image/svg" href="/logo.svg"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"/><script src="https://www.recaptcha.net/recaptcha/api.js?hl=en" async defer="defer"></script><meta http-equiv="X-UA-Compatible" content="IE=Edge"/><title>Coresky | Vote, Earn Airdrops, and Launch Meme Coins on Web3</title><meta name="description" content="Discover Coresky — a Web3 meme token incubation platform. Create and vote for meme coins, earn $CSKY airdrops, and help launch the next viral meme project."/><meta name="keywords" content="Coresky,Meme,Launchpad,Meme Token Launchpad, Meme Crypto Launch Platform,BSC,ETH,SOL"/><meta property="twitter:card" content="summary_large_image"/><meta property="twitter:image" content="https://image.coresky.com/twitter_share.jpg"/><meta property="twitter:title" content="Coresky---Breaking the Boundaries of NFTs"/><script async src="https://www.googletagmanager.com/gtag/js?id=G-65K8PCKDGS"></script><script>window.dataLayer = window.dataLayer || [];
+  @font-face {
+    font-family: 'Orbitron';
+    src: url('/fonts/Orbitron/static/Orbitron-Bold.ttf') format('truetype');
+    font-weight: bold;
+  }
 
       function gtag() {
         dataLayer.push(arguments);
