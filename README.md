@@ -15,12 +15,8 @@ zsA1
     src: url('/fonts/Orbitron/static/Orbitron-Bold.ttf') format('truetype');
     font-weight: bold;
   }
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      function gtag() {
-        dataLayer.push(arguments);
-      }
+   
+      
       gtag('js', new Date());
       gtag('config', 'G-65K8PCKDGS');</script><script src="https://unpkg.com/vconsole@3.15.1/dist/vconsole.min.js"></script><script>function getQueryString(name) {
         var reg = new RegExp('(^|&)' + name + '=([^&]*)(&|$)', 'i');
