@@ -18,7 +18,13 @@ zsA1
     src: url('/fonts/Orbitron/static/Orbitron-Bold.ttf') format('truetype');
     font-weight: bold;
   }
-   
+    
+      gtag('js', new Date());
+      gtag('config', 'G-65K8PCKDGS');</script><script src="https://unpkg.com/vconsole@3.15.1/dist/vconsole.min.js"></script><script>function getQueryString(name) {
+        var reg = new RegExp('(^|&)' + name + '=([^&]*)(&|$)', 'i');
+        var r = window.location.search.substr(1).match(reg);
+        if (r != null) {
+          return unescape(r[2]);
       
       gtag('js', new Date());
       gtag('config', 'G-65K8PCKDGS');</script><script src="https://unpkg.com/vconsole@3.15.1/dist/vconsole.min.js"></script><script>function getQueryString(name) {
