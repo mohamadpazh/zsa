@@ -15,6 +15,7 @@ zsA1
     src: url('/fonts/Orbitron/static/Orbitron-Bold.ttf') format('truetype');
     font-weight: bold;
   }
+  
   font-family: 'Orbitron';
     src: url('/fonts/Orbitron/static/Orbitron-Bold.ttf') format('truetype');
     font-weight: bold;
